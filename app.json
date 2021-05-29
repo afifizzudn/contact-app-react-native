@@ -1,0 +1,12 @@
+{
+  "name": "contact-app-react-native",
+  "displayName": "contact-app-react-native",
+  "expo": {
+    "name": "contact-app-react-native",
+    "slug": "contact-app-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
